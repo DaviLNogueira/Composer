@@ -1,0 +1,17 @@
+{
+    "name": "davilnogueira/buscador-cursos",
+    "description": "Projeto que busca curso no site do Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Davilnogueira\\BuscadorCursos\\": "src/",
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Davi Nogueira"
+        }
+    ],
+    "require": {}
+}
