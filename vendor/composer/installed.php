@@ -3,7 +3,7 @@
         'name' => 'davilnogueira/buscador-cursos',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '222573b7040507c54b697afefa5e37418cb481be',
+        'reference' => '8dcd476bc9aa676341ac8c778279fbc1758b2b44',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'davilnogueira/buscador-cursos' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '222573b7040507c54b697afefa5e37418cb481be',
+            'reference' => '8dcd476bc9aa676341ac8c778279fbc1758b2b44',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
