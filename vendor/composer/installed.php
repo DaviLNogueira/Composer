@@ -3,7 +3,7 @@
         'name' => 'davilnogueira/buscador-cursos',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'd8e46f1c6ae1761f0be72e440e2629914f5285f8',
+        'reference' => 'c18d0d32213f701892bc1092c579176996e2bac7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'davilnogueira/buscador-cursos' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'd8e46f1c6ae1761f0be72e440e2629914f5285f8',
+            'reference' => 'c18d0d32213f701892bc1092c579176996e2bac7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'guzzlehttp/psr7' => array(
-            'pretty_version' => '1.8.5',
-            'version' => '1.8.5.0',
-            'reference' => '337e3ad8e5716c15f9657bd214d16cc5e69df268',
+            'pretty_version' => '2.2.1',
+            'version' => '2.2.1.0',
+            'reference' => 'c94a94f120803a18554c1805ef2e539f8285f9a2',
             'type' => 'library',
             'install_path' => __DIR__ . '/../guzzlehttp/psr7',
             'aliases' => array(),
@@ -65,6 +65,21 @@
             'dev_requirement' => false,
         ),
         'psr/http-client-implementation' => array(
+            'dev_requirement' => false,
+            'provided' => array(
+                0 => '1.0',
+            ),
+        ),
+        'psr/http-factory' => array(
+            'pretty_version' => '1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => '12ac7fcd07e5b077433f5f2bee95b3a771bf61be',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/http-factory',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'psr/http-factory-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
                 0 => '1.0',

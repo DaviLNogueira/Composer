@@ -4,7 +4,7 @@ namespace Alura\BuscadorDeCursos;
 
 use Psr\Http\Client\ClientInterface;
 use Symfony\Component\DomCrawler\Crawler;
-use function Sodium\add;
+
 
 class Buscador
 {
