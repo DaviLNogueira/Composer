@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Davilnogueira\\BuscadorCursos\\": "src/",
+            "Davilnogueira\\BuscadorCursos\\": "src/"
 
         }
     },
@@ -13,5 +13,11 @@
             "name": "Davi Nogueira"
         }
     ],
-    "require": {}
+    "require": {
+
+
+        "symfony/css-selector": "^6.1",
+        "symfony/dom-crawler": "^6.1",
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
